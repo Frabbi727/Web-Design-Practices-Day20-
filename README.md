@@ -1,2 +1,2 @@
-# Web-Development-Practices-Day20-
-Using Section tag creating a static portfolio 
+# new-Work
+20 th class git practice 
